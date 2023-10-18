@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@ng-release/header": ["libs/header/src/index.ts"]
+      "@ng-release/header": ["libs/header/src/index.ts"],
+      "@ng-release/weather/forecast": ["libs/weather/forecast/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
